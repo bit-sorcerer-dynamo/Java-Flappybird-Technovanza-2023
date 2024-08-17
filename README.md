@@ -1,2 +1,7 @@
-# java-flappy-bird-technovanza-2023
-A simple game due to which I lost technovanza 2023... and also the reason why I won in 2024....
+# Java-flappy-bird-Technovanza-2023
+ - A simple 2D Flappy Bird Style Game
+ - Takes in Input
+ - Works on Dual Users
+ - Created Under 2 Hours
+
+This Game was built for a competition but didn't really catch that attention becuase the competition was focused on SOFTWARES.... :P My bad!
